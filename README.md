@@ -5,7 +5,7 @@ A CLI tool for setting up nginx as a reverse proxy and configuring SSL via Let's
 ## Install
 
 ```bash
-curl -fsSL https://raw.githubusercontent.com/hardope/nginxctl/main/install.sh | sudo bash
+curl -fsSL https://raw.githubusercontent.com/hardope/nginxctl/master/install.sh | sudo bash
 ```
 
 Or download a binary directly from [Releases](https://github.com/hardope/nginxctl/releases):
